@@ -1,0 +1,3 @@
+alias open="xdg-open $2>/dev/null"
+alias UNID="cd ~/Documents/Uni/Year\ 2/Semester\ 1/"
+alias UNIP="cd ~/Projects/uni/"
